@@ -1,2 +1,7 @@
+# Files
+package-lock.json
+
+# Folders
 build
 node_modules
+
